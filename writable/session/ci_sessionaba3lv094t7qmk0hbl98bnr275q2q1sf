@@ -1,0 +1,4 @@
+__ci_last_regenerate|i:1689878410;_ci_previous_url|s:35:"http://localhost:8080/admin/makanan";username|s:5:"admin";level|s:5:"admin";nama|s:11:"Super Admin";id_user|s:1:"1";logged_in|b:1;berhasilhapusmakanan|s:278:"<div class="alert alert-warning">
+                          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                          <i class="icon-line-lock"></i>Data makanan berhasil di hapus!</a>
+                        </div>";__ci_vars|a:1:{s:20:"berhasilhapusmakanan";s:3:"old";}

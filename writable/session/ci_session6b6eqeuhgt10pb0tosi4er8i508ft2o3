@@ -1,0 +1,4 @@
+__ci_last_regenerate|i:1689896655;_ci_previous_url|s:34:"http://localhost:8080/admin/kucing";username|s:5:"admin";level|s:5:"admin";nama|s:11:"Super Admin";id_user|s:1:"1";logged_in|b:1;berhasiltambahkucing|s:289:"<div class="alert alert-success">
+                          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                          <i class="icon-line-lock"></i>Selamat! Anda berhasil menambahkan kucing!</a>
+                        </div>";__ci_vars|a:1:{s:20:"berhasiltambahkucing";s:3:"old";}

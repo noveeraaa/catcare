@@ -1,0 +1,4 @@
+__ci_last_regenerate|i:1690157807;_ci_previous_url|s:34:"http://localhost:8080/admin/kucing";username|s:5:"admin";level|s:5:"admin";nama|s:11:"Super Admin";id_user|s:1:"1";logged_in|b:1;berhasilhapuskucing|s:277:"<div class="alert alert-warning">
+                          <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
+                          <i class="icon-line-lock"></i>Data kucing berhasil di hapus!</a>
+                        </div>";__ci_vars|a:1:{s:19:"berhasilhapuskucing";s:3:"old";}
